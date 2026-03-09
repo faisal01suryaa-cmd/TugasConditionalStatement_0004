@@ -27,4 +27,8 @@ int main ()
     cin >> tinggi;
 
      bmi = Hitung_BMI(berat, tinggi);
+
+     cout << endl << "--- Hasil ---" << endl;
+    cout << "BMI Anda : " << bmi << endl;
+    cout << "Status   : " << Status_BMI(bmi) << endl;
 }
