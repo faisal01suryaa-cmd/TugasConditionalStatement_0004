@@ -25,4 +25,6 @@ int main ()
     cin >>berat;
     cout << "masukkan tinggi badan =";
     cin >> tinggi;
+
+     bmi = Hitung_BMI(berat, tinggi);
 }
