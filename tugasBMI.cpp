@@ -21,8 +21,8 @@ int main ()
     float berat, tinggi, bmi;
     string status;
     cout << "--- Selamat Datang Mahasiswa Kelas A 2025 ---" << endl;
-    cout << "masukkan nilai bahasa berat = ";
+    cout << "masukkan  berat badan = ";
     cin >>berat;
-    cout << "masukkan nilai tinggi =";
+    cout << "masukkan tinggi badan =";
     cin >> tinggi;
 }
